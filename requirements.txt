@@ -1,0 +1,9 @@
+fastapi==0.115.6
+fasttext==0.9.3
+nltk==3.9.1
+numpy==2.2.1
+pydantic==2.10.4
+PyYAML==6.0.1
+PyYAML==6.0.2
+Requests==2.32.3
+tqdm==4.67.1

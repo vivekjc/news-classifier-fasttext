@@ -1,0 +1,11 @@
+datasets:
+  ccnews:
+    source: "stanford-oval/ccnews"
+    name: "2022"
+    split: "train"
+    streaming: true
+  wikipedia:
+    source: "wikipedia"
+    name: "20220301.en"
+    split: "train"
+    streaming: true
