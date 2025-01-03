@@ -1,4 +1,4 @@
-# FastText Model for Classifying News Articles
+# Scalable News Classification and Data Curation Pipeline with FastAPI, FastText, and Hugging Face Datasets
 
 This project utilizes FastText to classify documents as either news or non-news. The project exposes endpoints through a FastAPI server for model training and scoring.
 
